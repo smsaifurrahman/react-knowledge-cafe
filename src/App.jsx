@@ -1,15 +1,21 @@
 import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
+
 import './App.css'
+import Header from './components/Header/Header'
+import Blogs from './components/Blogs/Blogs'
+import Bookmarks from './components/Bookmarks/Bookmarks'
 
 function App() {
-  const [count, setCount] = useState(0)
 
   return (
     <>
      
-      <h1 className='text-4xl bg-red-50'>Vite + React</h1>
+     <Header></Header>
+     <div className='md:flex container mx-auto'>
+          <Blogs></Blogs>
+          <Bookmarks></Bookmarks>
+     </div>
+     
      
     </>
   )

@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "cover": "https://i.ibb.co/Xkw8XkV/blog1.jpg",
+      "title": "Sample Book Title 1",
+      "author": "John Doe",
+      "author_img": "https://i.ibb.co/BcRHcCV/profile4.jpg",
+      "posted_date": "2024-03-12",
+      "reading_time": 120,
+      "hashtags": ["fiction", "adventure", "bestseller"]
+    },
+    {
+      "id": 2,
+      "cover": "https://i.ibb.co/CHfzfzr/blog2.jpg",
+      "title": "Sample Book Title 2",
+      "author": "Jane Smith",
+      "author_img": "https://i.ibb.co/64gzNJN/proflie5.jpg",
+      "posted_date": "2024-03-11",
+      "reading_time": 90,
+      "hashtags": ["mystery", "thriller", "suspense"]
+    },
+    {
+      "id": 3,
+      "cover": "https://i.ibb.co/BZ7mG2S/blog3pg.jpg",
+      "title": "Sample Book Title 3",
+      "author": "Samuel Johnson",
+      "author_img": "https://i.ibb.co/RQcg81L/proflien2.jpg",
+      "posted_date": "2024-03-10",
+      "reading_time": 180,
+      "hashtags": ["sci-fi", "fantasy", "epic"]
+    },
+    {
+      "id": 4,
+      "cover": "https://i.ibb.co/3FLTrgN/bllog9.jpg",
+      "title": "Sample Book Title 4",
+      "author": "Emily Brown",
+      "author_img": "https://i.ibb.co/ftGrM0g/profile1.jpg",
+      "posted_date": "2024-03-09",
+      "reading_time": 150,
+      "hashtags": ["romance", "drama", "love"]
+    },
+    {
+      "id": 5,
+      "cover": "https://i.ibb.co/rxHJWKM/blog.jpg",
+      "title": "Sample Book Title 5",
+      "author": "Michael Johnson",
+      "author_img": "https://i.ibb.co/fpwtPWN/profile3.jpg",
+      "posted_date": "2024-03-08",
+      "reading_time": 120,
+      "hashtags": ["biography", "history", "nonfiction"]
+    }
+  ]
+  
